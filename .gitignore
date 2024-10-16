@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # Ignore the SQL dump file
-habit_tracker_api_v1/mysql_dump.sql
+mysql_dump.sql
